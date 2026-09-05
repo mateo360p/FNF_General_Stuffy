@@ -1,2 +1,3 @@
 # FNF_General_Stuffy
-Literally just a MD for my v-slice options-
+Idk, various assets for my ports/mods
+not THAT much used tho
